@@ -1,0 +1,795 @@
+{
+  "exportedAt": "2026-11-13T07:39:21.548Z",
+  "settings": {
+    "shippingFee": 0,
+    "shop": {
+      "email": "hello@vacession.vn",
+      "phone": "0900000000",
+      "address": "123 Nguyễn Trãi, Quận 1, TP.HCM",
+      "instagram": "https://www.instagram.com/"
+    },
+    "bank": {
+      "name": "Vietcombank",
+      "accountNumber": "0123456789",
+      "accountName": "CONG TY VACESSION"
+    }
+  },
+  "categories": [
+    {
+      "id": "cmwdo3s5z000119fd8jeam4i2",
+      "name": "Outerwears",
+      "slug": "outerwears",
+      "sortOrder": 1
+    },
+    {
+      "id": "cmwdo3s62000219fdkxrrdgfr",
+      "name": "Tops",
+      "slug": "tops",
+      "sortOrder": 2
+    },
+    {
+      "id": "cmwdo3s63000319fdtgo0718a",
+      "name": "Bottom",
+      "slug": "bottom",
+      "sortOrder": 3
+    },
+    {
+      "id": "cmwdo3s64000419fd2ewg511p",
+      "name": "Accessories",
+      "slug": "accessories",
+      "sortOrder": 4
+    }
+  ],
+  "products": [
+    {
+      "id": "cmwdo3s65000619fdyvyubq5u",
+      "name": "Washed Zip Hoodie / Navy",
+      "slug": "washed-zip-hoodie-navy",
+      "description": "Chất liệu: Cotton nỉ 400gsm.\nForm boxy, wash bạc màu thủ công, khóa kéo kim loại.\n\nMaterial: Cotton nỉ 400gsm.",
+      "price": 890000,
+      "images": [
+        "/demo/products/washed-zip-hoodie-navy-1-v3.svg",
+        "/demo/products/washed-zip-hoodie-navy-2-v3.svg"
+      ],
+      "sizeChart": null,
+      "categoryId": "cmwdo3s5z000119fd8jeam4i2",
+      "isActive": true,
+      "isNew": true,
+      "sortOrder": 0,
+      "soldCount": 91,
+      "createdAt": "2026-11-12T14:53:12.413Z",
+      "variants": [
+        {
+          "id": "cmwdo3s65000719fdwutqqfnj",
+          "size": "S",
+          "stock": 17
+        },
+        {
+          "id": "cmwdo3s65000819fdf4c4w9dj",
+          "size": "M",
+          "stock": 10
+        },
+        {
+          "id": "cmwdo3s65000919fdf017qb1c",
+          "size": "L",
+          "stock": 21
+        },
+        {
+          "id": "cmwdo3s65000a19fdgp40msuu",
+          "size": "XL",
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "id": "cmwdo3s6c000c19fdpxpofbdz",
+      "name": "Washed Zip Hoodie / Grey",
+      "slug": "washed-zip-hoodie-grey",
+      "description": "Chất liệu: Cotton nỉ 400gsm.\nForm boxy, wash bạc màu thủ công, khóa kéo kim loại.\n\nMaterial: Cotton nỉ 400gsm.",
+      "price": 890000,
+      "images": [
+        "/demo/products/washed-zip-hoodie-grey-1-v3.svg",
+        "/demo/products/washed-zip-hoodie-grey-2-v3.svg"
+      ],
+      "sizeChart": null,
+      "categoryId": "cmwdo3s5z000119fd8jeam4i2",
+      "isActive": true,
+      "isNew": true,
+      "sortOrder": 1,
+      "soldCount": 66,
+      "createdAt": "2026-11-12T14:53:12.420Z",
+      "variants": [
+        {
+          "id": "cmwdo3s6c000d19fdefuijp9f",
+          "size": "S",
+          "stock": 10
+        },
+        {
+          "id": "cmwdo3s6c000e19fdnz6po5aw",
+          "size": "M",
+          "stock": 17
+        },
+        {
+          "id": "cmwdo3s6c000f19fdzqk6pjse",
+          "size": "L",
+          "stock": 26
+        },
+        {
+          "id": "cmwdo3s6c000g19fder6n8x26",
+          "size": "XL",
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "id": "cmwdo3s6f000i19fdepxs2fre",
+      "name": "Work Jacket / Brown",
+      "slug": "work-jacket-brown",
+      "description": "Chất liệu: Canvas 12oz.\nTúi hộp hai bên, cúc đồng khắc logo.\n\nMaterial: Canvas 12oz.",
+      "price": 1150000,
+      "images": [
+        "/demo/products/work-jacket-brown-1-v3.svg",
+        "/demo/products/work-jacket-brown-2-v3.svg"
+      ],
+      "sizeChart": null,
+      "categoryId": "cmwdo3s5z000119fd8jeam4i2",
+      "isActive": true,
+      "isNew": false,
+      "sortOrder": 2,
+      "soldCount": 17,
+      "createdAt": "2026-11-12T14:53:12.424Z",
+      "variants": [
+        {
+          "id": "cmwdo3s6f000j19fdtbiqhqv3",
+          "size": "S",
+          "stock": 29
+        },
+        {
+          "id": "cmwdo3s6f000k19fdn4xkvaac",
+          "size": "M",
+          "stock": 13
+        },
+        {
+          "id": "cmwdo3s6f000l19fdrgdp1r99",
+          "size": "L",
+          "stock": 13
+        },
+        {
+          "id": "cmwdo3s6f000m19fdn80ct9a0",
+          "size": "XL",
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "id": "cmwdo3s6j000o19fd4jyufk7f",
+      "name": "Varsity Bomber / Black",
+      "slug": "varsity-bomber-black",
+      "description": "Chất liệu: Dạ pha len.\nTay da PU, bo len gân, thêu chữ ở ngực.\n\nMaterial: Dạ pha len.",
+      "price": 1290000,
+      "images": [
+        "/demo/products/varsity-bomber-black-1-v3.svg",
+        "/demo/products/varsity-bomber-black-2-v3.svg"
+      ],
+      "sizeChart": null,
+      "categoryId": "cmwdo3s5z000119fd8jeam4i2",
+      "isActive": true,
+      "isNew": false,
+      "sortOrder": 3,
+      "soldCount": 66,
+      "createdAt": "2026-11-12T14:53:12.427Z",
+      "variants": [
+        {
+          "id": "cmwdo3s6j000p19fdaogiygr2",
+          "size": "S",
+          "stock": 10
+        },
+        {
+          "id": "cmwdo3s6j000q19fd651w1gpe",
+          "size": "M",
+          "stock": 19
+        },
+        {
+          "id": "cmwdo3s6j000r19fds6jwr1o6",
+          "size": "L",
+          "stock": 10
+        },
+        {
+          "id": "cmwdo3s6j000s19fd33s4q0op",
+          "size": "XL",
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "id": "cmwdo3s6l000u19fdhlwrpajf",
+      "name": "Nylon Windbreaker / Olive",
+      "slug": "nylon-windbreaker-olive",
+      "description": "Chất liệu: Nylon chống nước nhẹ.\nMũ trùm có dây rút, gấp gọn vào túi.\n\nMaterial: Nylon chống nước nhẹ.",
+      "price": 790000,
+      "images": [
+        "/demo/products/nylon-windbreaker-olive-1-v3.svg",
+        "/demo/products/nylon-windbreaker-olive-2-v3.svg"
+      ],
+      "sizeChart": null,
+      "categoryId": "cmwdo3s5z000119fd8jeam4i2",
+      "isActive": true,
+      "isNew": false,
+      "sortOrder": 4,
+      "soldCount": 42,
+      "createdAt": "2026-11-12T14:53:12.430Z",
+      "variants": [
+        {
+          "id": "cmwdo3s6l000v19fd3zl5aj13",
+          "size": "S",
+          "stock": 20
+        },
+        {
+          "id": "cmwdo3s6l000w19fd1ngdkrfc",
+          "size": "M",
+          "stock": 12
+        },
+        {
+          "id": "cmwdo3s6l000x19fd3u507xgp",
+          "size": "L",
+          "stock": 26
+        },
+        {
+          "id": "cmwdo3s6l000y19fddqfhenh8",
+          "size": "XL",
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "id": "cmwdo3s6o001019fdgdbwo4vw",
+      "name": "Vintage Graphic Tee / White",
+      "slug": "vintage-graphic-tee-white",
+      "description": "Chất liệu: Cotton 250gsm.\nIn lụa hiệu ứng nứt vintage, form oversize.\n\nMaterial: Cotton 250gsm.",
+      "price": 420000,
+      "images": [
+        "/demo/products/vintage-graphic-tee-white-1-v3.svg",
+        "/demo/products/vintage-graphic-tee-white-2-v3.svg"
+      ],
+      "sizeChart": null,
+      "categoryId": "cmwdo3s62000219fdkxrrdgfr",
+      "isActive": true,
+      "isNew": true,
+      "sortOrder": 5,
+      "soldCount": 78,
+      "createdAt": "2026-11-12T14:53:12.432Z",
+      "variants": [
+        {
+          "id": "cmwdo3s6o001119fdf7oj5qgr",
+          "size": "S",
+          "stock": 20
+        },
+        {
+          "id": "cmwdo3s6o001219fdhkpibwml",
+          "size": "M",
+          "stock": 13
+        },
+        {
+          "id": "cmwdo3s6o001319fdgrqh8sb6",
+          "size": "L",
+          "stock": 27
+        },
+        {
+          "id": "cmwdo3s6o001419fdhzbn9awn",
+          "size": "XL",
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "id": "cmwdo3s6r001619fd5uujfurz",
+      "name": "Vintage Graphic Tee / Black",
+      "slug": "vintage-graphic-tee-black",
+      "description": "Chất liệu: Cotton 250gsm.\nIn lụa hiệu ứng nứt vintage, form oversize.\n\nMaterial: Cotton 250gsm.",
+      "price": 420000,
+      "images": [
+        "/demo/products/vintage-graphic-tee-black-1-v3.svg",
+        "/demo/products/vintage-graphic-tee-black-2-v3.svg"
+      ],
+      "sizeChart": null,
+      "categoryId": "cmwdo3s62000219fdkxrrdgfr",
+      "isActive": true,
+      "isNew": true,
+      "sortOrder": 6,
+      "soldCount": 93,
+      "createdAt": "2026-11-12T14:53:12.435Z",
+      "variants": [
+        {
+          "id": "cmwdo3s6r001719fdnkjfi7l8",
+          "size": "S",
+          "stock": 29
+        },
+        {
+          "id": "cmwdo3s6r001819fd1h1trjra",
+          "size": "M",
+          "stock": 11
+        },
+        {
+          "id": "cmwdo3s6r001919fduz6esck9",
+          "size": "L",
+          "stock": 19
+        },
+        {
+          "id": "cmwdo3s6r001a19fdm7nyd4db",
+          "size": "XL",
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "id": "cmwdo3s6u001c19fd14o5lvec",
+      "name": "Basic Logo Tee / Cream",
+      "slug": "basic-logo-tee-cream",
+      "description": "Chất liệu: Cotton 230gsm.\nThêu logo nhỏ ở ngực, form regular.\n\nMaterial: Cotton 230gsm.",
+      "price": 350000,
+      "images": [
+        "/demo/products/basic-logo-tee-cream-1-v3.svg",
+        "/demo/products/basic-logo-tee-cream-2-v3.svg"
+      ],
+      "sizeChart": null,
+      "categoryId": "cmwdo3s62000219fdkxrrdgfr",
+      "isActive": true,
+      "isNew": false,
+      "sortOrder": 7,
+      "soldCount": 81,
+      "createdAt": "2026-11-12T14:53:12.438Z",
+      "variants": [
+        {
+          "id": "cmwdo3s6u001d19fde1a9ksjd",
+          "size": "S",
+          "stock": 18
+        },
+        {
+          "id": "cmwdo3s6u001e19fdo2ghyf0e",
+          "size": "M",
+          "stock": 14
+        },
+        {
+          "id": "cmwdo3s6u001f19fds5ltk14s",
+          "size": "L",
+          "stock": 24
+        },
+        {
+          "id": "cmwdo3s6u001g19fd0vlhmd74",
+          "size": "XL",
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "id": "cmwdo3s6w001i19fdbs163hir",
+      "name": "Striped Rugby Polo / Navy",
+      "slug": "striped-rugby-polo-navy",
+      "description": "Chất liệu: Cotton dày.\nCổ bẻ trắng, sọc ngang bản to.\n\nMaterial: Cotton dày.",
+      "price": 690000,
+      "images": [
+        "/demo/products/striped-rugby-polo-navy-1-v3.svg",
+        "/demo/products/striped-rugby-polo-navy-2-v3.svg"
+      ],
+      "sizeChart": null,
+      "categoryId": "cmwdo3s62000219fdkxrrdgfr",
+      "isActive": true,
+      "isNew": false,
+      "sortOrder": 8,
+      "soldCount": 5,
+      "createdAt": "2026-11-12T14:53:12.441Z",
+      "variants": [
+        {
+          "id": "cmwdo3s6w001j19fdi06um032",
+          "size": "S",
+          "stock": 11
+        },
+        {
+          "id": "cmwdo3s6w001k19fdlw4nms85",
+          "size": "M",
+          "stock": 11
+        },
+        {
+          "id": "cmwdo3s6w001l19fdpa95xm7o",
+          "size": "L",
+          "stock": 26
+        },
+        {
+          "id": "cmwdo3s6w001m19fdxrt099sy",
+          "size": "XL",
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "id": "cmwdo3s6z001o19fd4rz28mut",
+      "name": "Oxford Long Sleeve Shirt / Blue",
+      "slug": "oxford-long-sleeve-shirt-blue",
+      "description": "Chất liệu: Oxford cotton.\nCúc cài cổ, túi ngực, form rộng.\n\nMaterial: Oxford cotton.",
+      "price": 590000,
+      "images": [
+        "/demo/products/oxford-long-sleeve-shirt-blue-1-v3.svg",
+        "/demo/products/oxford-long-sleeve-shirt-blue-2-v3.svg"
+      ],
+      "sizeChart": null,
+      "categoryId": "cmwdo3s62000219fdkxrrdgfr",
+      "isActive": true,
+      "isNew": false,
+      "sortOrder": 9,
+      "soldCount": 88,
+      "createdAt": "2026-11-12T14:53:12.443Z",
+      "variants": [
+        {
+          "id": "cmwdo3s6z001p19fd2wbqiqmd",
+          "size": "S",
+          "stock": 24
+        },
+        {
+          "id": "cmwdo3s6z001q19fdrc70y1c8",
+          "size": "M",
+          "stock": 15
+        },
+        {
+          "id": "cmwdo3s6z001r19fdop71gyjz",
+          "size": "L",
+          "stock": 29
+        },
+        {
+          "id": "cmwdo3s6z001s19fdk5yx7mrm",
+          "size": "XL",
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "id": "cmwdo3s71001u19fdj7e2n4pa",
+      "name": "Heavyweight Sweater / Charcoal",
+      "slug": "heavyweight-sweater-charcoal",
+      "description": "Chất liệu: Len dệt kim.\nDệt gân, cổ tròn, vai rớt.\n\nMaterial: Len dệt kim.",
+      "price": 750000,
+      "images": [
+        "/demo/products/heavyweight-sweater-charcoal-1-v3.svg",
+        "/demo/products/heavyweight-sweater-charcoal-2-v3.svg"
+      ],
+      "sizeChart": null,
+      "categoryId": "cmwdo3s62000219fdkxrrdgfr",
+      "isActive": true,
+      "isNew": false,
+      "sortOrder": 10,
+      "soldCount": 83,
+      "createdAt": "2026-11-12T14:53:12.445Z",
+      "variants": [
+        {
+          "id": "cmwdo3s71001v19fdcx85x3qa",
+          "size": "S",
+          "stock": 24
+        },
+        {
+          "id": "cmwdo3s71001w19fdcxvflb73",
+          "size": "M",
+          "stock": 20
+        },
+        {
+          "id": "cmwdo3s71001x19fdjm6v78tl",
+          "size": "L",
+          "stock": 22
+        },
+        {
+          "id": "cmwdo3s71001y19fdhn59idts",
+          "size": "XL",
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "id": "cmwdo3s73002019fd1l3v4oqt",
+      "name": "Double Layered Denim Pants",
+      "slug": "double-layered-denim-pants",
+      "description": "Chất liệu: Denim 13oz.\nPhối hai tông denim, cúc khắc logo, patch da sau lưng.\n\nMaterial: Denim 13oz.",
+      "price": 1230000,
+      "images": [
+        "/demo/products/double-layered-denim-pants-1-v3.svg",
+        "/demo/products/double-layered-denim-pants-2-v3.svg"
+      ],
+      "sizeChart": null,
+      "categoryId": "cmwdo3s63000319fdtgo0718a",
+      "isActive": true,
+      "isNew": true,
+      "sortOrder": 11,
+      "soldCount": 50,
+      "createdAt": "2026-11-12T14:53:12.447Z",
+      "variants": [
+        {
+          "id": "cmwdo3s73002119fdm62t4fiz",
+          "size": "S",
+          "stock": 11
+        },
+        {
+          "id": "cmwdo3s73002219fdemu2m4bs",
+          "size": "M",
+          "stock": 14
+        },
+        {
+          "id": "cmwdo3s73002319fd6yjdax17",
+          "size": "L",
+          "stock": 26
+        },
+        {
+          "id": "cmwdo3s73002419fdf3h6ixty",
+          "size": "XL",
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "id": "cmwdo3s75002619fd3rwna356",
+      "name": "Carpenter Pants / Black",
+      "slug": "carpenter-pants-black",
+      "description": "Chất liệu: Canvas cotton.\nVòng treo búa, túi hộp, ống suông.\n\nMaterial: Canvas cotton.",
+      "price": 850000,
+      "images": [
+        "/demo/products/carpenter-pants-black-1-v3.svg",
+        "/demo/products/carpenter-pants-black-2-v3.svg"
+      ],
+      "sizeChart": null,
+      "categoryId": "cmwdo3s63000319fdtgo0718a",
+      "isActive": true,
+      "isNew": false,
+      "sortOrder": 12,
+      "soldCount": 82,
+      "createdAt": "2026-11-12T14:53:12.450Z",
+      "variants": [
+        {
+          "id": "cmwdo3s75002719fdk27gdglu",
+          "size": "S",
+          "stock": 13
+        },
+        {
+          "id": "cmwdo3s75002819fdoyxr8pnm",
+          "size": "M",
+          "stock": 24
+        },
+        {
+          "id": "cmwdo3s75002919fdzcqgsn25",
+          "size": "L",
+          "stock": 28
+        },
+        {
+          "id": "cmwdo3s75002a19fd3569p9h5",
+          "size": "XL",
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "id": "cmwdo3s78002c19fd9ln43y7d",
+      "name": "Baggy Jeans / Light Wash",
+      "slug": "baggy-jeans-light-wash",
+      "description": "Chất liệu: Denim 12oz.\nỐng rộng, wash sáng, cạp cao.\n\nMaterial: Denim 12oz.",
+      "price": 950000,
+      "images": [
+        "/demo/products/baggy-jeans-light-wash-1-v3.svg",
+        "/demo/products/baggy-jeans-light-wash-2-v3.svg"
+      ],
+      "sizeChart": null,
+      "categoryId": "cmwdo3s63000319fdtgo0718a",
+      "isActive": true,
+      "isNew": false,
+      "sortOrder": 13,
+      "soldCount": 93,
+      "createdAt": "2026-11-12T14:53:12.452Z",
+      "variants": [
+        {
+          "id": "cmwdo3s78002d19fd8xsvkz24",
+          "size": "S",
+          "stock": 11
+        },
+        {
+          "id": "cmwdo3s78002e19fd0x1ak18f",
+          "size": "M",
+          "stock": 24
+        },
+        {
+          "id": "cmwdo3s78002f19fdd51qinji",
+          "size": "L",
+          "stock": 10
+        },
+        {
+          "id": "cmwdo3s78002g19fd6n419l4e",
+          "size": "XL",
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "id": "cmwdo3s7a002i19fdbnb9099z",
+      "name": "Nylon Track Shorts / Black",
+      "slug": "nylon-track-shorts-black",
+      "description": "Chất liệu: Nylon.\nLưng thun có dây rút, sọc hai bên.\n\nMaterial: Nylon.",
+      "price": 450000,
+      "images": [
+        "/demo/products/nylon-track-shorts-black-1-v3.svg",
+        "/demo/products/nylon-track-shorts-black-2-v3.svg"
+      ],
+      "sizeChart": null,
+      "categoryId": "cmwdo3s63000319fdtgo0718a",
+      "isActive": true,
+      "isNew": false,
+      "sortOrder": 14,
+      "soldCount": 38,
+      "createdAt": "2026-11-12T14:53:12.454Z",
+      "variants": [
+        {
+          "id": "cmwdo3s7a002j19fdk1c4on1h",
+          "size": "S",
+          "stock": 12
+        },
+        {
+          "id": "cmwdo3s7a002k19fd9gsu41wl",
+          "size": "M",
+          "stock": 12
+        },
+        {
+          "id": "cmwdo3s7a002l19fdt0wxbqmk",
+          "size": "L",
+          "stock": 17
+        },
+        {
+          "id": "cmwdo3s7a002m19fd6nh1fzzj",
+          "size": "XL",
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "id": "cmwdo3s7c002o19fd3gmfy10e",
+      "name": "Sweat Shorts / Grey",
+      "slug": "sweat-shorts-grey",
+      "description": "Chất liệu: Cotton nỉ.\nLưng thun, túi sau, thêu logo.\n\nMaterial: Cotton nỉ.",
+      "price": 390000,
+      "images": [
+        "/demo/products/sweat-shorts-grey-1-v3.svg",
+        "/demo/products/sweat-shorts-grey-2-v3.svg"
+      ],
+      "sizeChart": null,
+      "categoryId": "cmwdo3s63000319fdtgo0718a",
+      "isActive": true,
+      "isNew": false,
+      "sortOrder": 15,
+      "soldCount": 30,
+      "createdAt": "2026-11-12T14:53:12.456Z",
+      "variants": [
+        {
+          "id": "cmwdo3s7c002p19fde04gindv",
+          "size": "S",
+          "stock": 22
+        },
+        {
+          "id": "cmwdo3s7c002q19fdhjv1tfxk",
+          "size": "M",
+          "stock": 22
+        },
+        {
+          "id": "cmwdo3s7c002r19fdh60iuykf",
+          "size": "L",
+          "stock": 27
+        },
+        {
+          "id": "cmwdo3s7c002s19fdkbbnjdz6",
+          "size": "XL",
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "id": "cmwdo3s7d002u19fdzwblxbkd",
+      "name": "Logo Cap / Black",
+      "slug": "logo-cap-black",
+      "description": "Chất liệu: Cotton twill.\nThêu logo nổi, khóa chỉnh kim loại.\n\nMaterial: Cotton twill.",
+      "price": 350000,
+      "images": [
+        "/demo/products/logo-cap-black-1-v3.svg",
+        "/demo/products/logo-cap-black-2-v3.svg"
+      ],
+      "sizeChart": null,
+      "categoryId": "cmwdo3s64000419fd2ewg511p",
+      "isActive": true,
+      "isNew": false,
+      "sortOrder": 16,
+      "soldCount": 2,
+      "createdAt": "2026-11-12T14:53:12.458Z",
+      "variants": [
+        {
+          "id": "cmwdo3s7d002v19fd718dm34o",
+          "size": "FREE SIZE",
+          "stock": 18
+        }
+      ]
+    },
+    {
+      "id": "cmwdo3s7f002x19fdg48k721g",
+      "name": "Beanie / Cream",
+      "slug": "beanie-cream",
+      "description": "Chất liệu: Len acrylic.\nGập gấu, patch dệt logo.\n\nMaterial: Len acrylic.",
+      "price": 320000,
+      "images": [
+        "/demo/products/beanie-cream-1-v3.svg",
+        "/demo/products/beanie-cream-2-v3.svg"
+      ],
+      "sizeChart": null,
+      "categoryId": "cmwdo3s64000419fd2ewg511p",
+      "isActive": true,
+      "isNew": true,
+      "sortOrder": 17,
+      "soldCount": 73,
+      "createdAt": "2026-11-12T14:53:12.459Z",
+      "variants": [
+        {
+          "id": "cmwdo3s7f002y19fd27hqr8pi",
+          "size": "FREE SIZE",
+          "stock": 13
+        }
+      ]
+    },
+    {
+      "id": "cmwdo3s7g003019fdjapjd3z8",
+      "name": "Canvas Tote Bag",
+      "slug": "canvas-tote-bag",
+      "description": "Chất liệu: Canvas 16oz.\nQuai dài đeo vai, túi nhỏ bên trong.\n\nMaterial: Canvas 16oz.",
+      "price": 380000,
+      "images": [
+        "/demo/products/canvas-tote-bag-1-v3.svg",
+        "/demo/products/canvas-tote-bag-2-v3.svg"
+      ],
+      "sizeChart": null,
+      "categoryId": "cmwdo3s64000419fd2ewg511p",
+      "isActive": true,
+      "isNew": false,
+      "sortOrder": 18,
+      "soldCount": 50,
+      "createdAt": "2026-11-12T14:53:12.461Z",
+      "variants": [
+        {
+          "id": "cmwdo3s7g003119fdyqed8okf",
+          "size": "FREE SIZE",
+          "stock": 17
+        }
+      ]
+    },
+    {
+      "id": "cmwdo3s7i003319fd0ui1zkwk",
+      "name": "Leather Belt / Brown",
+      "slug": "leather-belt-brown",
+      "description": "Chất liệu: Da bò.\nKhóa đồng khắc logo.\n\nMaterial: Da bò.",
+      "price": 490000,
+      "images": [
+        "/demo/products/leather-belt-brown-1-v3.svg",
+        "/demo/products/leather-belt-brown-2-v3.svg"
+      ],
+      "sizeChart": null,
+      "categoryId": "cmwdo3s64000419fd2ewg511p",
+      "isActive": true,
+      "isNew": false,
+      "sortOrder": 19,
+      "soldCount": 92,
+      "createdAt": "2026-11-12T14:53:12.462Z",
+      "variants": [
+        {
+          "id": "cmwdo3s7i003419fdgni5nlqd",
+          "size": "90",
+          "stock": 23
+        },
+        {
+          "id": "cmwdo3s7i003519fdd2z0aa9h",
+          "size": "100",
+          "stock": 19
+        },
+        {
+          "id": "cmwdo3s7i003619fddo8ikv2h",
+          "size": "110",
+          "stock": 20
+        }
+      ]
+    }
+  ]
+}
